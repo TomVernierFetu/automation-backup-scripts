@@ -1,0 +1,13 @@
+# Fichiers de sauvegarde et archives temporaires
+*.zip
+*.tar.gz
+*.tmp
+
+# Fichiers sensibles
+*.env
+commandes_ftp.txt
+
+# OS / Éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
