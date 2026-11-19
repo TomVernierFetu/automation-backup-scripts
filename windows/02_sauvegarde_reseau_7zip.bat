@@ -1,9 +1,5 @@
 @echo off
-:: ============================================================
-:: TP Script BAT - Partie 2 : Sauvegarde distante compressée
-:: Auteur : Tom Vernier-Fétu (BTS SIO)
-:: Description : Sauvegarde 7-Zip horodatée sur partage réseau
-:: ============================================================
+:: Sauvegarde 7-Zip horodatée sur partage réseau
 
 title Sauvegarde distante sur serveur avec 7-Zip
 

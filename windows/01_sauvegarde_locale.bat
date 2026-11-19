@@ -1,9 +1,5 @@
 @echo off
-:: ============================================================
-:: TP Script BAT - Partie 1 : Sauvegarde locale des fichiers Word
-:: Auteur : Tom Vernier-Fétu (BTS SIO)
-:: Description : Sauvegarde les fichiers .docx vers le lecteur P:
-:: ============================================================
+:: Sauvegarde les fichiers .docx vers le lecteur P:
 
 title Sauvegarde locale des documents Word
 

@@ -1,9 +1,5 @@
 @echo off
-:: ============================================================
-:: TP Script BAT - Partie 3 : Sauvegarde distante via FTP
-:: Auteur : Tom Vernier-Fétu (BTS SIO)
-:: Description : Compression 7-Zip et transfert automatique par FTP
-:: ============================================================
+:: Compression 7-Zip et transfert automatique par FTP
 
 title Sauvegarde et transfert FTP vers FileZilla Server
 
@@ -17,7 +13,7 @@ set "DOSSIER_TEMP=%TEMP%\sauvegarde_ftp"
 set "ZIP_PATH=C:\Program Files\7-Zip\7z.exe"
 
 set "FTP_SERVEUR=127.0.0.1"
-set "FTP_USER=btssio"
+set "FTP_USER=backup_user"
 set "FTP_PASS=btssio"
 
 :: 2. Formatage de la date et de l'heure
