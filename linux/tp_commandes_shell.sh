@@ -14,7 +14,7 @@ ls -l "$BASE_DIR"
 
 echo
 echo "--- 2. Creation et manipulation du fichier document ---"
-echo "Contenu initial du document cree pour le TP BTS SIO" > "$BASE_DIR/rep1/document.txt"
+echo "Contenu initial du document cree pour le script shell" > "$BASE_DIR/rep1/document.txt"
 echo "Contenu avec la commande cat :"
 cat "$BASE_DIR/rep1/document.txt"
 

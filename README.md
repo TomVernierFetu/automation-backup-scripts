@@ -2,7 +2,7 @@
 
 Ensemble de scripts d'automatisation de tâches d'administration système, de stratégies de sauvegarde de données (locales, distantes et FTP) et d'administration système sous **Windows (Batch `.bat`)** et **Linux (Bash `.sh`)**.
 
-Projet réalisé dans le cadre de ma formation en systèmes et réseaux (BTS SIO).
+Suite de scripts d'administration et d'automatisation des sauvegardes sous Windows (Batch) et Linux (Bash).
 
 ---
 
